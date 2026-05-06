@@ -27,7 +27,7 @@ A modern **Link in Bio** page built for creators and developers to showcase all 
 ---
 
 ## 📸 Preview
-> Add a screenshot or GIF of your project here
+![Page Preview](preview.png)
 
 ---
 
